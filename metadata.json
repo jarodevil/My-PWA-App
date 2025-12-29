@@ -1,0 +1,13 @@
+{
+  "name": "FIT.CORE Studio V15",
+  "short_name": "FIT.CORE",
+  "description": "Professional Photoroom-style Fashion Studio. Integrated MCP & Multi-level Memory.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "pwa": {
+    "display": "standalone",
+    "background_color": "#F5F5F7",
+    "theme_color": "#1D1D1F"
+  }
+}
